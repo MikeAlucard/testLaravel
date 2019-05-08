@@ -13,7 +13,6 @@ class UserController extends Controller
             'Mike',
             'Dos',
             'D:',
-            '<script>alert("Clicker")</script>',
         ];
 
         $title = 'Listado de usuarios';
