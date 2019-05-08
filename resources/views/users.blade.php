@@ -11,7 +11,7 @@
 
     <ul>
         @foreach ($users as $user)
-            <li>{{ $users }}</li>
+            <li>{{ $user }}</li>
         @endforeach
     </ul>
 </body>
